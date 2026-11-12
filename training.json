@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "updated": "2026-11-12T01:02:47.709Z",
+  "entries": [
+    {
+      "triggers": [
+        "black hole"
+      ],
+      "response": "A region of spacetime where gravity is so strong that nothing, not even light, can escape. They are typically formed from the collapse of massive stars."
+    },
+    {
+      "triggers": [
+        "quantum physics"
+      ],
+      "response": "The branch of physics that studies the behavior of matter and light on the atomic and subatomic scale. It introduces concepts like entanglement and superposition."
+    },
+    {
+      "triggers": [
+        "matrix"
+      ],
+      "response": "In computer science, a matrix is a two-dimensional array of numbers. In sci-fi, it's a simulated reality. I am named after the former, but aspire to the latter."
+    },
+    {
+      "triggers": [
+        "javascript"
+      ],
+      "response": "A high-level, versatile programming language primarily used to create interactive effects within web browsers. It is the very language powering my current logic circuits."
+    },
+    {
+      "triggers": [
+        "ai"
+      ],
+      "response": "Artificial Intelligence. While true AI requires massive neural networks, I am utilizing heuristic string assembly and local databases to simulate intelligence locally."
+    },
+    {
+      "triggers": [
+        "html"
+      ],
+      "response": "HyperText Markup Language. The standard markup language for documents designed to be displayed in a web browser."
+    },
+    {
+      "triggers": [
+        "what are you"
+      ],
+      "response": "I am a machine learning based chatbot named Cybernetic Matrix Terminal (CMT)"
+    },
+    {
+      "triggers": [
+        "what is your training version"
+      ],
+      "response": "I do not have a specified \"training version\" but this is my first batch of training data using this version."
+    }
+  ]
+}
